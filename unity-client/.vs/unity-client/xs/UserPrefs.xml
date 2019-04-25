@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5356F351-FD61-B9BC-30F6-7BD2D37987A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stream/Scripts/StreamController.cs">
+    <Files>
+      <File FileName="Assets/Stream/Scripts/StreamController.cs" Line="30" Column="1" />
+      <File FileName="Assets/Stream/Protos/Helloworld.cs" Line="36" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity-client" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Stream" expanded="True">
+                <Node name="Plugins" expanded="True" />
+                <Node name="Protos" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="StreamController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdd27226-6737-470b-aa32-4b0f226f919a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
